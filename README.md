@@ -53,7 +53,7 @@ The hardware pipeline consists of the following stages:
 4.  **Synthesize on FPGA:**
     Add the `src/` files to your FPGA project, assign pin constraints, and generate the bitstream.
 
-## 📊 Results & Performance
+## Results & Performance
 The design was evaluated based on resource usage and classification accuracy. Detailed analysis can be found in the **DSDA Final Project.pdf**.
 
 * **Accuracy:** The hardware implementation matches the software model's accuracy on the test set.
